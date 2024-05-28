@@ -28,4 +28,6 @@ creative-landing-page/
 ├── st.css                # CSS file for styling the landing page
 ├── scr.js                # JavaScript file for adding interactivity
 
-# Link of the project: 
+# Link of the project: https://github.com/Meghavathjyothibai/PRODIGY_TrackCode_TaskNumber
+
+# Screenshot of the website
