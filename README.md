@@ -31,3 +31,5 @@ creative-landing-page/
 # Link of the project: https://github.com/Meghavathjyothibai/PRODIGY_TrackCode_TaskNumber
 
 # Screenshot of the website
+![Screenshot_20240528_111443](https://github.com/Meghavathjyothibai/PRODIGY_TrackCode_TaskNumber/assets/168762488/7a6f3f57-fedd-4e65-ad3f-6bf7e63f2ef6)
+
